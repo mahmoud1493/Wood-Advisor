@@ -10,7 +10,6 @@ Part of my work through the [GenAI Engineer Bootcamp](https://www.udemy.com/cour
 
 - Connecting Python to an LLM with LangChain's `init_chat_model`
 - Extracting model responses reliably with `response.text`
-- Keeping API keys out of code using `.env` and Streamlit Secrets
 - Building and deploying a UI with Streamlit
 
 ## Run locally
