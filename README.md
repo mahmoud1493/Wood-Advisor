@@ -2,7 +2,7 @@
 
 An AI web app that recommends the best wood for furniture, built with **LangChain**, **Google Gemini** and **Streamlit**.
 
-**🔗 Live demo:** [your-app.streamlit.app](https://wood-advisor-je94vwadzoxkjnzfkxaqbb.streamlit.app/)
+**🔗 Live demo:** [wood-advisor](https://wood-advisor-mi7773.streamlit.app/)
 
 Part of my work through the [GenAI Engineer Bootcamp](https://www.udemy.com/course/ai-developer-bootcamp/) (Section 1). I extended the course's Python script into a deployed web app.
 
